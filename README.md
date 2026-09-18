@@ -1,0 +1,1 @@
+This is a beginner-friendly Python password strength checker that evaluates a password based on its length and the use of uppercase letters, lowercase letters, numbers, and special characters. I built this project to practice Python programming, input validation, and understand the importance of creating strong passwords for better cybersecurity.
